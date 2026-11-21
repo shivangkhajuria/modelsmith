@@ -1,5 +1,7 @@
 # ModelSmith
 
+![ModelSmith: validation ROC-AUC on the demo dataset](docs/thumbnail.png)
+
 **An AI agent that designs, trains, evaluates and explains machine-learning models from a CSV and a goal written in plain English.**
 
 ```bash
